@@ -3,6 +3,8 @@
 ## Project Overview
 
 This project is a **one-page Netflix Analytics Dashboard** built in **Power BI** to analyze Netflix’s content catalog and provide business-oriented insights. The dashboard focuses on content composition, release trends, geographic distribution, audience ratings, and genre popularity to support data-driven decision-making.
+<img width="1428" height="789" alt="Netflix_Analytics_Dashboard" src="https://github.com/user-attachments/assets/40032cf5-42dd-4866-8eca-e9b7f561ad12" />
+
 
 ---
 
@@ -62,10 +64,6 @@ This project is a **one-page Netflix Analytics Dashboard** built in **Power BI**
 The dashboard provides an executive view of Netflix’s content portfolio, helping stakeholders understand catalog composition, growth patterns, regional content contribution, and audience targeting for strategic content planning.
 
 ---
-
-## Dashboard Preview
-
-*()*
 
 ---
 
